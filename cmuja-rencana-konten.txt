@@ -4,6 +4,7 @@ RENCANA KONTEN CMUJA
   * Framework Javascript
     ^ Vue
     ^ React
+    ^ Angular
 - Struktur Data Dasar
 - PHP Framworks
   ^ Laravel
