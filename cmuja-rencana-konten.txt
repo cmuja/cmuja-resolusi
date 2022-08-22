@@ -2,6 +2,7 @@ RENCANA KONTEN CMUJA
 -Javascript
   * ES6
   * Framework Javascript
+- Struktur Data Dasar
 - PHP Framworks
 - Interview
 - Vlogs
